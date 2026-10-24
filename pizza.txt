@@ -3,7 +3,11 @@ ingredient
 1 cup flour
 1 cup water
 1 tabs salt
+1.5 tabs suger
+1 cup oil
 
+...
 
 steps
-01: mix flour with water
+01:mix everything
+02:eat
